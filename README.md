@@ -11,6 +11,11 @@ The main purpose of this application is to track the current status of COVID-19 
  - Selecting any country in the dropdown given will get the country to be zoomed in on the map. The information on the statistics will get updated too.
  - Countries are sorted according to the number of cases and provided in table.
  - Line chart is provided to show the fluctuations over days. It can be hovered around to see exact figures.
+<br />
+
+![User Interface](https://github.com/maheswarha/covid-19-tracker/blob/master/COVID-19%20Tracker%20User%20Interface.PNG)
+<br />
+<br />
 
 ## Project Details
 
